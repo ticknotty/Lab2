@@ -8,5 +8,9 @@
 
 $forename = $_POST["forename"];
 $surname = $_POST["surname"];
-echo "Name: " . $forename . $surname;
+$day = $_POST["day"];
+$month = $_POST["month"];
+$year = $_POST["year"];
+echo "Name: " . $forename . " " . $surname;
+echo "DOB: " . $day . "/" . $month . "." . $year;
 ?>

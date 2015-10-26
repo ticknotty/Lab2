@@ -23,6 +23,15 @@
     <input type ="text" name="surname">
 <input type="submit" value="Submit">
 </form>
+<br>
+<form action="formResponse.php" method="post">
+    <label>Day: </label>
+        <input type="text" name="day">
+    <label>Month: </label>
+        <input type="text" name="month">
+    <label>Year: </label>
+    <input type="text" name="year">
+</form>
 </body>
 </html>
 <?php
