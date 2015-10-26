@@ -22,8 +22,8 @@
 <label>Surname: </label>
     <input type ="text" name="surname">
     <br>
-    <label>Day: </label>
-    <input type="text" name="day">
+    Day (between 1 and 31):
+    <input type="number" name="day" min="1" max="31">
     <label>Month: </label>
     <input type="text" name="month">
     <label>Year: </label>
