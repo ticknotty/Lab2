@@ -1,4 +1,4 @@
-<?php
+    <?php
 /**
  * Created by PhpStorm.
  * User: 1202663
@@ -6,3 +6,5 @@
  * Time: 14:46
  */
 
+    $planet = $GET_["planet"];
+    echo "Hello " . $planet;

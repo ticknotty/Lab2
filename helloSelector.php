@@ -1,3 +1,19 @@
+<DOCTYPE!>
+<html>
+<head>
+</head>
+<body>
+<a href="helloPrinter.php?planet=earth">
+    Earth
+</a>
+<a href="helloPrinter.php?planet=mars">
+    Mars
+</a>
+<a href="helloPrinter.php?planet=uranus">
+    Uranus
+</a>
+</body>
+</html>
 <?php
 /**
  * Created by PhpStorm.
