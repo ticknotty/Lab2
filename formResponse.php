@@ -12,10 +12,15 @@ $day = $_POST["day"];
 $month = $_POST["month"];
 $year = $_POST["year"];
 $sex = $_POST["sex"];
-
+$power1 = $_POST["power1"];
+$power2 = $_POST["power2"];
+$power3 = $_POST["power3"];
 echo "Name: " . $forename . " " . $surname . "<br>";
 
 echo "DOB: " . $day . "/" . $month . "/" . $year , "<br>";
 
 echo $sex;
+echo $power1;
+echo $power2;
+echo $power3;
 ?>
