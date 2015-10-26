@@ -28,6 +28,9 @@
     <input type="number" name="month" min="1" max="12">
     Year:
     <input type="number" name="year" min="1900" max="2015">
+    <input type="radio" name="sex" value="male" checked>Male
+    <br>
+    <input type="radio" name="sex" value="female">Female
 <input type="submit" value="Submit">
 <br>
 </form>
