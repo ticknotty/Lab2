@@ -18,5 +18,4 @@ echo "Name: " . $forename . " " . $surname . "<br>";
 echo "DOB: " . $day . "/" . $month . "/" . $year , "<br>";
 
 echo $sex;
-
 ?>

@@ -29,9 +29,9 @@
     Year:
     <input type="number" name="year" min="1900" max="2015">
     <br>
-    <input type="radio" name="sex" value="male" checked>Male
+    <input type="radio" name="sex" value="Male" checked>Male
     <br>
-    <input type="radio" name="sex" value="female">Female
+    <input type="radio" name="sex" value="Female">Female
     <br>
 <input type="submit" value="Submit">
 <br>
