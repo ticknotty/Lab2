@@ -22,12 +22,12 @@
 <label>Surname: </label>
     <input type ="text" name="surname">
     <br>
-    Day (between 1 and 31):
+    Day:
     <input type="number" name="day" min="1" max="31">
-    <label>Month: </label>
-    <input type="text" name="month">
-    <label>Year: </label>
-    <input type="text" name="year">
+    Month:
+    <input type="number" name="month" min="1" max="12">
+    Year:
+    <input type="number" name="year" min="1900" max="2015">
 <input type="submit" value="Submit">
 <br>
 </form>
