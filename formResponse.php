@@ -11,12 +11,12 @@ $surname = $_POST["surname"];
 $day = $_POST["day"];
 $month = $_POST["month"];
 $year = $_POST["year"];
-$male = $_POST["male"];
-$female = $_POST["female"];
+$sex = $_POST["sex"];
+
 echo "Name: " . $forename . " " . $surname . "<br>";
 
 echo "DOB: " . $day . "/" . $month . "/" . $year , "<br>";
 
-echo $male;
-echo $female;
+echo $sex;
+
 ?>
