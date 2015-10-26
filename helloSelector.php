@@ -1,17 +1,17 @@
-<DOCTYPE!>
+<!DOCTYPE>
 <html>
 <head>
 </head>
 <body>
-<a href="helloPrinter.php?planet=Earth">
+<a href="helloPrinter.php?planet=earth">
     Earth
 </a>
 <br>
-<a href="helloPrinter.php?planet=Mars">
+<a href="helloPrinter.php?planet=mars">
     Mars
 </a>
 <br>
-<a href="helloPrinter.php?planet=Uranus">
+<a href="helloPrinter.php?planet=uranus">
     Uranus
 </a>
 </body>
