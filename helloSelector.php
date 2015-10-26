@@ -31,6 +31,7 @@
         <input type="text" name="month">
     <label>Year: </label>
     <input type="text" name="year">
+<input type="submit" value=Submit">
 </form>
 </body>
 </html>
