@@ -21,17 +21,15 @@
     <input type="text" name="forename">
 <label>Surname: </label>
     <input type ="text" name="surname">
-<input type="submit" value="Submit">
-</form>
-<br>
-<form action="formResponse.php" method="post">
+    <br>
     <label>Day: </label>
-        <input type="text" name="day">
+    <input type="text" name="day">
     <label>Month: </label>
-        <input type="text" name="month">
+    <input type="text" name="month">
     <label>Year: </label>
     <input type="text" name="year">
 <input type="submit" value="Submit">
+<br>
 </form>
 </body>
 </html>
