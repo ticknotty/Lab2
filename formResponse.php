@@ -13,5 +13,5 @@ $month = $_POST["month"];
 $year = $_POST["year"];
 echo "Name: " . $forename . " " . $surname . "<br>";
 
-echo "DOB: " . $day . "/" . $month . "/" . $year;
+echo "DOB: " . $day . "/" . $month . "/" . $year , "<br>";
 ?>
