@@ -7,9 +7,11 @@
     Earth
 </a>
 <br>
+<br>
 <a href="helloPrinter.php?planet=mars">
     Mars
 </a>
+<br>
 <br>
 <a href="helloPrinter.php?planet=uranus">
     Uranus
