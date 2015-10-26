@@ -32,6 +32,7 @@
     <input type="radio" name="sex" value="male" checked>Male
     <br>
     <input type="radio" name="sex" value="female">Female
+    <br>
 <input type="submit" value="Submit">
 <br>
 </form>
