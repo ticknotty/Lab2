@@ -3,15 +3,15 @@
 <head>
 </head>
 <body>
-<a href="helloPrinter.php?planet=earth">
+<a href="helloPrinter.php?planet=Earth">
     Earth
 </a>
 <br>
-<a href="helloPrinter.php?planet=mars">
+<a href="helloPrinter.php?planet=Mars">
     Mars
 </a>
 <br>
-<a href="helloPrinter.php?planet=uranus">
+<a href="helloPrinter.php?planet=Uranus">
     Uranus
 </a>
 </body>
