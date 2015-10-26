@@ -3,19 +3,6 @@
 <head>
 </head>
 <body>
-<a href="helloPrinter.php?planet=earth">
-    Earth
-</a>
-<br>
-<br>
-<a href="helloPrinter.php?planet=mars">
-    Mars
-</a>
-<br>
-<br>
-<a href="helloPrinter.php?planet=uranus">
-    Uranus
-</a>
 <form action="formResponse.php" method="post">
 <label>Forename: </label>
     <input type="text" name="forename">
@@ -29,9 +16,9 @@
     Year:
     <input type="number" name="year" min="1900" max="2015">
     <br>
-    <input type="radio" name="sex" value="Male" checked>Male
+    <input type="radio" name="sex" value="male" checked>Male
     <br>
-    <input type="radio" name="sex" value="Female">Female
+    <input type="radio" name="sex" value="female">Female
     <br>
 <input type="submit" value="Submit">
 <br>
