@@ -16,7 +16,7 @@
 <a href="helloPrinter.php?planet=uranus">
     Uranus
 </a>
-<form action="formResponse.php" method="post>
+<form action="formResponse.php" method="post">
 <label>Forename</label><input type="Nick" name="forename">
 <label>Surname</label><input type ="Totty" name="surname">
 <input type="submit" value="Submit">
