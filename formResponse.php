@@ -19,9 +19,15 @@ echo "Name: " . $forename . " " . $surname . "<br>";
 
 echo "DOB: " . $day . "/" . $month . "/" . $year , "<br>";
 
+echo "Gender is: ";
+
 echo $sex;
 echo "<br>";
+echo "This superhero has the following powers: ";
+echo "<br>";
 echo $power1;
+echo "<br>";
 echo $power2;
+echo "<br>";
 echo $power3;
 ?>
