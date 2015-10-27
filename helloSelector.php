@@ -1,6 +1,7 @@
 <!DOCTYPE>
 <html>
 <head>
+    <link rel="stylesheet" href="css/main.css">
 </head>
 <body>
 <form action="formResponse.php" method="post">
