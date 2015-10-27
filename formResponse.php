@@ -22,8 +22,6 @@ echo "DOB: " . $day . "/" . $month . "/" . $year , "<br>";
 echo $sex;
 echo "<br>";
 echo $power1;
-echo "<br>";
 echo $power2;
-echo "<br>";
 echo $power3;
 ?>
