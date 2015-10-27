@@ -20,11 +20,11 @@
     <br>
     <input type="radio" name="sex" value="female">Female
     <br>
-    <input type="checkbox" name="power1" value="Flying"> I can fly
+    <input type="checkbox" name="power1" value="Flying"> Flying
     <br>
-    <input type="checkbox" name="power2" value="Strength"> I am strong
+    <input type="checkbox" name="power2" value="Strength"> Strength
     <br>
-    <input type="checkbox" name="power3" value="Invisible"> I can go invisible
+    <input type="checkbox" name="power3" value="Invisible"> Invisibility
 <input type="submit" value="Submit">
 <br>
 </form>
