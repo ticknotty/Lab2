@@ -15,6 +15,7 @@ $sex = $_POST["sex"];
 $power1 = $_POST["power1"];
 $power2 = $_POST["power2"];
 $power3 = $_POST["power3"];
+$power4 = $_POST["power4"];
 echo "Name: " . $forename . " " . $surname . "<br>";
 
 echo "DOB: " . $day . "/" . $month . "/" . $year , "<br>";
@@ -30,4 +31,6 @@ echo "<br>";
 echo $power2;
 echo "<br>";
 echo $power3;
+echo "<br>";
+echo $power4;
 ?>
