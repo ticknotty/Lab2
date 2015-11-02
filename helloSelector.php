@@ -27,7 +27,6 @@
     <input type="checkbox" name="power3" value="Invisible"> I can go invisible
     <br>
     <input type="checkbox" name="power4" value="Time Control"> I can control time
-    <br>
 <input type="submit" value="Submit">
 <br>
 </form>
